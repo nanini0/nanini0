@@ -12,8 +12,8 @@ Languages:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
 IDE:<br>
 ![Visula studio code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge&logoColor=white")
-![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-hotpink?style=for-the-badge&logo=intellijidea)
-![Static Badge](https://img.shields.io/badge/NETBEANS-green?style=for-the-badge&logo=apachenetbeanside)<br>
+![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-hotpink?style=for-the-badge&logo=intellijidea&logoColor=black)
+![Static Badge](https://img.shields.io/badge/NETBEANS-green?style=for-the-badge&logo=apachenetbeanside&logoColor=red)<br>
 Frameworks:<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
