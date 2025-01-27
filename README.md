@@ -6,14 +6,21 @@
 [![Instagram: nanini0](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nanini0) <br>
 💻 Tech Stack:<br>
 <span>
+Languages:<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
+IDE:<br>
+![Visula studio code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230088ff?style=for-the-badge&logoColor=white")
+![Static Badge](https://img.shields.io/badge/INTELLIJ%20IDEA-hotpink?style=for-the-badge&logo=intellijidea)
+![Static Badge](https://img.shields.io/badge/NETBEANS-green?style=for-the-badge&logo=apachenetbeanside)<br>
+Frameworks:<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 </span>
 <img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/>
-![](https://github-readme-stats.vercel.app/api?username=nanini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanini0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
 
 
