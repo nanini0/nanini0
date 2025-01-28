@@ -3,7 +3,7 @@
 <img align="right" width=300px  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /></p>
 
 🌐 Socials:<br>
-[![Instagram: nanini0](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nanini0) <br>
+[![Instagram: nanini0](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apdo.a0) <br>
 💻 Tech Stack:<br>
 <span>
 Languages:<br>
