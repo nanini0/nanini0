@@ -1,5 +1,5 @@
 <h2>💫 About Me:</h2>
-<p>Hi, I’m Alvaro Robles, a 25-year-old Chilean student of Programming Analysis at Inacap Talcahuano-Concepción, where I focus more on backend development. I’m an autonomous and proactive person, always seeking to learn more and absorb knowledge from those around me.<br><br>In addition to my passion for programming, I enjoy sharing what I know and teaching others.<br>My greatest motivation is to keep evolving professionally, taking on challenges, and leaving my mark in the tech world.
+<p>Hi, I’m Alvaro Robles, a 26-year-old Chilean student of Programming Analysis at Inacap Talcahuano-Concepción, where I focus more on backend development. I’m an autonomous and proactive person, always seeking to learn more and absorb knowledge from those around me.<br><br>In addition to my passion for programming, I enjoy sharing what I know and teaching others.<br>My greatest motivation is to keep evolving professionally, taking on challenges, and leaving my mark in the tech world.
 <img align="right" width=300px  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /></p>
 
 🌐 Socials:<br>
