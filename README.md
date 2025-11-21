@@ -18,6 +18,7 @@ IDE:<br>
 ![Static Badge](https://img.shields.io/badge/NETBEANS-green?style=for-the-badge&logo=apachenetbeanside&logoColor=red)<br>
 Frameworks:<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 
 </span>
 <img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/>
