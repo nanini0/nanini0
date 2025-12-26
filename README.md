@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanini0&label=Profile%20views&color=blueviolet&style=flat" alt="nanini0" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&vCenter=true&width=435&lines=Hi%2C+i'm+Alvaro+Robles)](https://git.io/typing-svg)
 <h2>💫 About Me:</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&vCenter=true&width=435&lines=Hi%2C+i'm+Alvaro+Robles)](https://git.io/typing-svg)
 <p>Hi, I’m Alvaro Robles, a 26-year-old Chilean student of Programming Analysis at Inacap Talcahuano-Concepción, where I focus more on backend development. I’m an autonomous and proactive person, always seeking to learn more and absorb knowledge from those around me.<br><br>In addition to my passion for programming, I enjoy sharing what I know and teaching others.<br>My greatest motivation is to keep evolving professionally, taking on challenges, and leaving my mark in the tech world.
 <img align="right" width=300px  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /></p>
 
