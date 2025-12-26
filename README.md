@@ -29,7 +29,9 @@ DB:<br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </span>
-<hr>
+
+
+
 <img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanini0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
