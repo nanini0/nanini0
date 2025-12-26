@@ -27,12 +27,10 @@ Frameworks:<br>
 DB:<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 </span>
 
 
 
-<img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/>
-
-[![nanini0's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanini0&show_icons=true&theme=radical)](https://github.com/nanini0)
+<img align="center" width=150px src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif"/><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanini0d&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
